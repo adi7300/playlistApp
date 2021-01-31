@@ -1,0 +1,28 @@
+.video-preview {
+    box-shadow: 0 2px 4px 0 rgba(60, 64, 67, 0.302), 0 4px 12px 4px rgba(60, 64, 67, 0.149);
+    border-radius: 3px;
+    margin: 10px;
+    overflow-x: hidden;
+    .video-content {
+        flex: 3;
+    }
+    .video-img {
+        flex: 1;
+        width: 100%;
+        margin: 5px;
+        object-fit: contain;
+    }
+    p {
+        margin-block-start: 0.3px;
+        text-align: left;
+    }
+    button {
+        margin: 10px;
+        align-self: start;
+        background-color: #ffffff;
+        border: 1px solid grey;
+        border-radius: 3px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
