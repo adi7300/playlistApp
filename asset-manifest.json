@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/css/main.107bce5d.chunk.css",
+    "main.js": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/main.5946f44c.chunk.js",
+    "main.js.map": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/main.5946f44c.chunk.js.map",
+    "runtime-main.js": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/runtime-main.e924f7e0.js",
+    "runtime-main.js.map": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/runtime-main.e924f7e0.js.map",
+    "static/js/2.4f18cb5d.chunk.js": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/2.4f18cb5d.chunk.js",
+    "static/js/2.4f18cb5d.chunk.js.map": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/2.4f18cb5d.chunk.js.map",
+    "static/js/3.1ed288b9.chunk.js": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/3.1ed288b9.chunk.js",
+    "static/js/3.1ed288b9.chunk.js.map": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/3.1ed288b9.chunk.js.map",
+    "index.html": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/index.html",
+    "static/css/main.107bce5d.chunk.css.map": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/css/main.107bce5d.chunk.css.map",
+    "static/js/2.4f18cb5d.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://adi7300.github.io/myplayer/static/js/2.4f18cb5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e924f7e0.js",
+    "static/js/2.4f18cb5d.chunk.js",
+    "static/css/main.107bce5d.chunk.css",
+    "static/js/main.5946f44c.chunk.js"
+  ]
+}
